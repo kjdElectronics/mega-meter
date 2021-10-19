@@ -1,0 +1,3 @@
+Instructions and Readme - First get an an Arduino Mega and install the ArduinoMegaMeter sketch. For help installing the firmware see the Arduino Getting Started Guide. 
+
+Once the firmware is successfully uploaded simply double click MegaMeter.exe to start the application. Select the COM port the Arduino is connected to and press connect. You should now see all of the voltages for all 16 analog inputs. Please note that any floating inputs (not connected to anything) will "float" between values between 1.5V and 2.6V. This is normal behavior.
